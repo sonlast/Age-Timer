@@ -24,6 +24,12 @@ h2 {
   font-family: sans-serif;
 }
 
+h4 {
+  margin-top: 5%;
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
 output {
   font-size: 30px;
   font-family: sans-serif;
